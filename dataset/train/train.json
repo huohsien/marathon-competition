@@ -1,0 +1,618 @@
+{
+    "info": {
+        "description": "ITRI's human detection training data",
+        "url": "https://www.itri.org.tw/",
+        "version": "1.0",
+        "year": 2019,
+        "contributor": "ITRI",
+        "date_created": "2019/12/19"
+    },
+    "images": [
+        {
+            "id": "nvr1_20181206_cam1_180000-054",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-25 20:10:32",
+            "file_name": "nvr1_20181206_cam1_180000-054.jpg"
+        },
+        {
+            "id": "nvr1_20181206_cam1_183000-004",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-26 11:36:18",
+            "file_name": "nvr1_20181206_cam1_183000-004.jpg"
+        },
+        {
+            "id": "nvr1_20181206_cam2_143000-074",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-19 12:10:46",
+            "file_name": "nvr1_20181206_cam2_143000-074.jpg"
+        },
+        {
+            "id": "nvr1_20181206_cam2_150000-052",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-19 20:16:15",
+            "file_name": "nvr1_20181206_cam2_150000-052.jpg"
+        },
+        {
+            "id": "nvr1_20181206_cam2_153000-064",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-20 16:43:04",
+            "file_name": "nvr1_20181206_cam2_153000-064.jpg"
+        },
+        {
+            "id": "nvr1_20181206_cam2_153000-086",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-20 19:49:20",
+            "file_name": "nvr1_20181206_cam2_153000-086.jpg"
+        },
+        {
+            "id": "nvr1_20181206_cam2_173000-026",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-24 15:44:59",
+            "file_name": "nvr1_20181206_cam2_173000-026.jpg"
+        },
+        {
+            "id": "nvr1_20181206_cam2_173000-062",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-24 20:53:40",
+            "file_name": "nvr1_20181206_cam2_173000-062.jpg"
+        },
+        {
+            "id": "nvr1_20181207_cam1_130000-012",
+            "width": 1920,
+            "height": 1080,
+            "license": 1,
+            "flickr_url": "",
+            "coco_url": "",
+            "date_captured": "2019-12-19 20:38:50",
+            "file_name": "nvr1_20181207_cam1_130000-012.jpg"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": "nvr1_20181206_cam1_180000-054",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 128232.0,
+            "bbox": [
+                0.0,
+                449.0,
+                234.0,
+                548.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": "nvr1_20181206_cam1_180000-054",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 129574.0,
+            "bbox": [
+                275.0,
+                366.0,
+                206.0,
+                629.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": "nvr1_20181206_cam1_180000-054",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 63332.0,
+            "bbox": [
+                372.0,
+                400.0,
+                142.0,
+                446.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": "nvr1_20181206_cam1_180000-054",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 14720.0,
+            "bbox": [
+                508.0,
+                468.0,
+                64.0,
+                230.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": "nvr1_20181206_cam1_180000-054",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 18450.0,
+            "bbox": [
+                582.0,
+                449.0,
+                82.0,
+                225.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": "nvr1_20181206_cam1_183000-004",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 40242.0,
+            "bbox": [
+                440.0,
+                456.0,
+                114.0,
+                353.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 7,
+            "image_id": "nvr1_20181206_cam1_183000-004",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 19505.0,
+            "bbox": [
+                520.0,
+                445.0,
+                83.0,
+                235.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 8,
+            "image_id": "nvr1_20181206_cam1_183000-004",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 13056.0,
+            "bbox": [
+                633.0,
+                466.0,
+                64.0,
+                204.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 9,
+            "image_id": "nvr1_20181206_cam1_183000-004",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 8745.0,
+            "bbox": [
+                745.0,
+                484.0,
+                53.0,
+                165.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 10,
+            "image_id": "nvr1_20181206_cam1_183000-004",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 24160.0,
+            "bbox": [
+                788.0,
+                487.0,
+                80.0,
+                302.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 11,
+            "image_id": "nvr1_20181206_cam1_183000-004",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 32926.0,
+            "bbox": [
+                852.0,
+                441.0,
+                101.0,
+                326.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 12,
+            "image_id": "nvr1_20181206_cam2_143000-074",
+            "category_id": 3,
+            "segmentation": [],
+            "area": 26600.0,
+            "bbox": [
+                938.0,
+                503.0,
+                95.0,
+                280.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 13,
+            "image_id": "nvr1_20181206_cam2_143000-074",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 84645.0,
+            "bbox": [
+                1103.0,
+                434.0,
+                171.0,
+                495.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 14,
+            "image_id": "nvr1_20181206_cam2_143000-074",
+            "category_id": 3,
+            "segmentation": [],
+            "area": 30870.0,
+            "bbox": [
+                1326.0,
+                435.0,
+                98.0,
+                315.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 15,
+            "image_id": "nvr1_20181206_cam2_143000-074",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 16247.0,
+            "bbox": [
+                1468.0,
+                438.0,
+                77.0,
+                211.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 16,
+            "image_id": "nvr1_20181206_cam2_150000-052",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 17238.0,
+            "bbox": [
+                1159.0,
+                453.0,
+                78.0,
+                221.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 17,
+            "image_id": "nvr1_20181206_cam2_150000-052",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 8646.0,
+            "bbox": [
+                1126.0,
+                510.0,
+                66.0,
+                131.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 18,
+            "image_id": "nvr1_20181206_cam2_150000-052",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 15323.0,
+            "bbox": [
+                1271.0,
+                463.0,
+                77.0,
+                199.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 19,
+            "image_id": "nvr1_20181206_cam2_150000-052",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 14880.0,
+            "bbox": [
+                1431.0,
+                464.0,
+                93.0,
+                160.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 20,
+            "image_id": "nvr1_20181206_cam2_153000-064",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 225478.0,
+            "bbox": [
+                332.0,
+                526.0,
+                407.0,
+                554.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 21,
+            "image_id": "nvr1_20181206_cam2_153000-064",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 224649.0,
+            "bbox": [
+                449.0,
+                393.0,
+                327.0,
+                687.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 22,
+            "image_id": "nvr1_20181206_cam2_153000-064",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 7623.0,
+            "bbox": [
+                1064.0,
+                523.0,
+                63.0,
+                121.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 23,
+            "image_id": "nvr1_20181206_cam2_153000-064",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 12928.0,
+            "bbox": [
+                1137.0,
+                490.0,
+                64.0,
+                202.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 24,
+            "image_id": "nvr1_20181206_cam2_153000-086",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 689268.0,
+            "bbox": [
+                265.0,
+                272.0,
+                852.0,
+                809.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 25,
+            "image_id": "nvr1_20181206_cam2_153000-086",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 451707.0,
+            "bbox": [
+                1058.0,
+                214.0,
+                521.0,
+                867.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 26,
+            "image_id": "nvr1_20181206_cam2_173000-026",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 53836.0,
+            "bbox": [
+                676.0,
+                767.0,
+                172.0,
+                313.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 27,
+            "image_id": "nvr1_20181206_cam2_173000-026",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 145095.0,
+            "bbox": [
+                860.0,
+                511.0,
+                255.0,
+                569.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 28,
+            "image_id": "nvr1_20181206_cam2_173000-026",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 166592.0,
+            "bbox": [
+                1160.0,
+                472.0,
+                274.0,
+                608.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 29,
+            "image_id": "nvr1_20181206_cam2_173000-062",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 87318.0,
+            "bbox": [
+                740.0,
+                513.0,
+                154.0,
+                567.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 30,
+            "image_id": "nvr1_20181206_cam2_173000-062",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 115668.0,
+            "bbox": [
+                978.0,
+                468.0,
+                189.0,
+                612.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 31,
+            "image_id": "nvr1_20181207_cam1_130000-012",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 27832.0,
+            "bbox": [
+                384.0,
+                434.0,
+                98.0,
+                284.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 32,
+            "image_id": "nvr1_20181207_cam1_130000-012",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 21736.0,
+            "bbox": [
+                464.0,
+                442.0,
+                88.0,
+                247.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 33,
+            "image_id": "nvr1_20181207_cam1_130000-012",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 18000.0,
+            "bbox": [
+                550.0,
+                446.0,
+                75.0,
+                240.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 34,
+            "image_id": "nvr1_20181207_cam1_130000-012",
+            "category_id": 1,
+            "segmentation": [],
+            "area": 28449.0,
+            "bbox": [
+                640.0,
+                444.0,
+                87.0,
+                327.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 35,
+            "image_id": "nvr1_20181207_cam1_130000-012",
+            "category_id": 2,
+            "segmentation": [],
+            "area": 48246.0,
+            "bbox": [
+                669.0,
+                479.0,
+                129.0,
+                374.0
+            ],
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "person",
+            "id": 1,
+            "name": "male"
+        },
+        {
+            "supercategory": "person",
+            "id": 2,
+            "name": "female"
+        },
+        {
+            "supercategory": "person",
+            "id": 3,
+            "name": "hard"
+        }
+    ],
+    "licenses": [
+        {
+            "url": "https://www.itri.org.tw/",
+            "id": 1,
+            "name": "ITRI"
+        }
+    ]
+}
